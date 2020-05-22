@@ -1,0 +1,7 @@
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.exe.config
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.exe
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.pdb
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.csprojAssemblyReference.cache
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.exe
+C:\Users\Feri\Desktop\EKE_TAV\mestint\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.pdb
